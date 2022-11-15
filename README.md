@@ -1,4 +1,4 @@
-# Public Feedback
+# PowerRP Public Feedback
 
 Click 'Issues' in the top left, to start a report.
 
